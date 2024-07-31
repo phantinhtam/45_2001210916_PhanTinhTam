@@ -1,0 +1,1 @@
+Độ phức tạp của giải thuật tham lam cho bài toán Knapsack: O(n log n) do cần sắp xếp các đồ vật theo giá trị/trọng lượng.

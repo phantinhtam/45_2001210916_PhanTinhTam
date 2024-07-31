@@ -1,0 +1,1 @@
+Độ phức tạp của QuickSort: O(n log n) trong trung bình và tốt nhất, O(n^2) trong trường hợp xấu nhất.
